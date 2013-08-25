@@ -8,7 +8,7 @@
 	<h1>Simulador Monte Carlo</h1>
 	<p><i>por Diego Lagranha Weiss</i></p>
 
-	Número de iterações: <input type="number" id="iterations">
+	Número de iterações: <input type="text" id="iterations">
 	<input id='btnOK' type='submit' value="OK">
 
 	<script src="vendor/require.js" charset="utf-8"></script>
